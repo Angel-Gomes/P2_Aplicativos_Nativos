@@ -30,9 +30,6 @@ yarn-error.*
 .DS_Store
 *.pem
 
-# local env files
-.env*.local
-
 # typescript
 *.tsbuildinfo
 
@@ -41,3 +38,9 @@ app-example
 # generated native folders
 /ios
 /android
+
+# ARQUIVOS SECRETOS (CRUCIAL)
+.env
+
+# Arquivos de IDE (VS Code)
+.vscode/
