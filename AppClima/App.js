@@ -54,8 +54,6 @@ export default function Index() {
 
   // Mapeamento para ícones
   const iconMap = {
-    // Código de exemplo, a OpenWeatherMap usa códigos numericos (weather[0].icon), 
-    // mas para simplificar, vamos mapear pela descrição
     'nuvens': 'cloud',
     'chuva': 'umbrella',
     'céu limpo': 'sun-o',
