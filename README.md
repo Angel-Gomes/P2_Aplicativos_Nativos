@@ -1,4 +1,4 @@
-# ☀️ App de Previsão do Tempo Simples
+# ☀️ App de Previsão do Tempo
 
 Este é um aplicativo móvel simples construído com **React Native** e **Expo** que exibe a previsão do tempo atual para qualquer cidade, consumindo dados de uma API pública.
 
