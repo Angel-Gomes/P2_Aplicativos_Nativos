@@ -72,7 +72,7 @@ export default function Index() {
 
     return (
       <View style={styles.weatherCard}>
-        <Text style={styles.cityName}>{name}</Text> {/* Removido o ** */}
+        <Text style={styles.cityName}>{name}</Text>
         <View style={styles.tempRow}>
           <Icon name={iconName} size={80} color="#333" />
           <Text style={styles.temperature}>{temperature}°C</Text>
